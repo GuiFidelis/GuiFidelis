@@ -12,7 +12,7 @@
 <p>
   Sou formado em Análise e Desenvolvimento de Sistemas pela Fatec-Sorocaba e Licenciado em Ciências Biológicas pelo IFSP-São Roque.
   </p><p>
-Atualmente estou participando do Bootcamp da Generation Brasil de Desenvolvedor Fullstack Java Jr., na qual busco me atualizar sobre algumas tecnologias e estar melhor preparado para o que o mercado exige. Neste período já tive contato especialmente com a linguagem Java, frameworks Angular e Spring Boot, além de outras ferramentas e bibliotecas como Git, HTML5, CSS3 e Bootstrap, aliados da metodologia ágil SCRUM.
+Atualmente estou participando do Bootcamp da Generation Brasil de Desenvolvedor Fullstack Java Jr., na qual busco me atualizar sobre algumas tecnologias e estar melhor preparado para o que o mercado exige. Neste período já tive contato especialmente com a linguagem Java (MVC,JPA,Hibernate), frameworks Angular e Spring Boot, além de outras ferramentas como Git, HTML5, CSS3, Bootstrap e MySQL, aplicados com metodologia ágil SCRUM.
 </p>
 
 -----
