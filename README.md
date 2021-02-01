@@ -1,7 +1,7 @@
 ### Bem Vindo(a) 👋
 
 
-  <img align="right" alt="GIF" src="https://i.imgur.com/lQyGe1n.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i.imgur.com/lQyGe1n.gif" width="500" height="450" />
 
 <h3 align="center">
   Me chamo Guilherme Fidelis
@@ -18,6 +18,8 @@ Atualmente estou participando do Bootcamp da Generation Brasil de Desenvolvedor 
 -----
 
 Última vez editado em: 01/02/2021
+
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guifidelis/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
