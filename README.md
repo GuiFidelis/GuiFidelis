@@ -1,7 +1,7 @@
 ### Bem Vindo(a) 👋
 
 
-  <img align="right" alt="GIF" src="https://i.imgur.com/lQyGe1n.gif" width="500" height="450" />
+  <img align="right" alt="GIF" src="https://i.imgur.com/xAlS1wG.gif" width="500" height="450" />
 
 <h3 align="center">
   Me chamo Guilherme Fidelis
