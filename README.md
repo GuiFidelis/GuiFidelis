@@ -28,3 +28,5 @@ Atualmente estou participando do Bootcamp da Generation Brasil de Desenvolvedor 
   
   </p>
 </p>
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuiFidelis&repo=GuiFidelisd&countColorcountColor)
